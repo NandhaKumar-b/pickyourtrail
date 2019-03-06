@@ -1,7 +1,7 @@
 How to run 
 ----------
 
-1) JDK should exist in the server where the program is running 
+1) JDK should exist in the server where the program is running (Note: Make sure jdk and jre version remains same)
 
 2) To compile -> javac filename.java 
 
